@@ -2,11 +2,21 @@
 
 ### 12.1 필드와 setter 메소드에 @Inject 기능 추가
 #### 12.1.1	요구사항 및 힌트
-@TODO 실습 요구사항 및 힌트 문서
+[필드 injection, setter injection 기능 추가 실습 문서](12.1 필드 injection, setter injection 기능 추가 실습.pdf)
 
-### 12.5	외부 라이브러리 클래스를 빈으로 등록하기
+### 12.5 외부 라이브러리 클래스를 빈으로 등록하기
 #### 12.5.1	요구사항 및 힌트
-@TODO 실습 요구사항 및 힌트 문서
+[외부 라이브러리 클래스를 빈으로 등록하기 실습 문서](12.5 외부 라이브러리 클래스를 빈으로 등록하기 실습.pdf)
+
+### 12.8 웹 서버 도입을 통한 서비스 운영
+#### 12.8.1	요구사항 및 힌트
+[nginx와 tomcat 연결 및 점검 페이지 실습 문서](12.8 nginx와 tomcat 연결 및 점검 페이지 실습.pdf)
+
+#### 12.8.4	동영상을 통한 배포 실습
+* https://youtu.be/7GlCo6RHBns 동영상은 nginx 웹 서버 설치 과정과 설정 디렉토리, 파일에 대한 간략한 설명을 다루고 있다.
+* https://youtu.be/QRqm5Xlw1HQ 동영상은 nginx와 tomcat 웹 서버 연동 방법에 대해 다루고 있다.
+* https://youtu.be/XEaqMl7eZT4 동영상은 수동으로 nginx 웹 서버에 점검 페이지를 설정하는 방법을 다룬다.
+* https://youtu.be/ZeY0xpnXF7w 동영상은 쉘 스크립트를 통해 점검 페이지를 자동화하는 과정에 대해 다룬다.
 
 ----
 # Table of Contents
