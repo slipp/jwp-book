@@ -1,7 +1,15 @@
-|                 | 서점           |
-| :-------------: |:-------------:|
-| ![자바 웹 프로그래밍 Next Step](jwp-book.jpg)     | [예스24]() |
-
+<table border="0" Cellpadding = "10" Cellspacing = "10">
+    <tr>
+        <td rowspan="3"><img src="jwp-book.jpg" alt="자바 웹 프로그래밍 Next Step"/></td>
+        <td><a href="" target="_blank">로드북</a></td>                
+    </tr>
+    <tr>
+        <td><a href="" target="_blank">알라딘</a></td>
+    </tr>
+    <tr>
+        <td><a href="" target="_blank">예스24</a></td>
+    </tr>     
+</table>
 
 # 1부. 첫 번째 양파 껍질
 이 책의 여기 저기에 “양파 껍질을 벗긴다.”, “첫 번째, 두 번째 양파 껍질”과 같은 표현이 등장한다. 나는 학생들에게 양파 껍질을 벗기듯이 학습하라고 이야기한다. 이 무슨 뚱딴지 같은 소리인가?
