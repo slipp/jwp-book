@@ -1,7 +1,7 @@
 <table border="0" Cellpadding = "10" Cellspacing = "10">
     <tr>
         <td rowspan="3"><img src="jwp-book.jpg" alt="자바 웹 프로그래밍 Next Step"/></td>
-        <td><a href="" target="_blank">로드북</a></td>                
+        <td><a href="https://slipp.net" target="_blank">로드북</a></td>                
     </tr>
     <tr>
         <td><a href="" target="_blank">알라딘</a></td>
