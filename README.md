@@ -4,7 +4,7 @@
         <td><a href="http://www.roadbook.co.kr/169">로드북</a></td>                
     </tr>
     <tr>
-        <td><a href="">강컴</a></td>
+        <td><a href="http://www.kangcom.com/sub/view.asp?sku=201609051558">강컴</a></td>
     </tr> 
     <tr>
         <td><a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788997924240&orderClick=LAH&Kc=">교보</a></td>
