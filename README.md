@@ -10,7 +10,7 @@
         <td><a href="http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788997924240&orderClick=LAH&Kc=">교보</a></td>
     </tr> 
     <tr>
-        <td><a href="">반디</a></td>
+        <td><a href="http://www.bandinlunis.com/front/product/detailProduct.do?prodId=3991995">반디</a></td>
     </tr> 
     <tr>
         <td><a href="http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=91501933">알라딘</a></td>
