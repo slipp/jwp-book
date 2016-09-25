@@ -8,8 +8,11 @@
 
 ### java.lang.String.startsWith() 사용에 관하여 (125페이지 예제)
 > // url = "/user/create?userId=test&password=pass&name=tester&email=a@b.com"
-if ("/user/create".startsWith(url))
+
+> if ("/user/create".startsWith(url))
 
 위와 같이 구현한 예제의 경우 GET 방식으로 구현하는 경우 항상 false 값이 반환되므로 정상 동작하지 않습니다. 이 경우 다음과 같이 구현하는 것이 맞습니다.
+
 // url = "/user/create?userId=test&password=pass&name=tester&email=a@b.com"
+
 if (url.startsWith("/user/create"))
