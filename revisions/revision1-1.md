@@ -21,3 +21,5 @@ if (url.startsWith("/user/create"))
 > 람다를 사용하려면 RowMapper와 같이 인터페이스의 메서드가 하나만 존재해야한다. 람다 표현식으로 사용할 인터페이스라고 지정하려면 이터페이스에 @FuntionalInterface 애노테이션을 추가해야한다.
 
 메소드가 하나만 존재해야한다라고 표현하고 있는데 추상 메소드가 하나만 존재해야 한다는 의미이다. 자바 8에서 추가한 디폴트 메소드를 존재할 수 있다. @FuntionalInterface 애노테이션의 경우 해당 인터페이스가 람다로 사용할 수 있다는 의미를 부여하는 것이지 반드시 추가해야 하는 것은 아니다. @FuntionalInterface 애노테이션이 없어도 얼마든지 람다로 사용할 수 있다.
+
+이와 관련한 더 자세한 설명은 https://github.com/slipp/jwp-book/issues/3 또는 [FunctionalInterface javadoc](https://docs.oracle.com/javase/8/docs/api/java/lang/FunctionalInterface.html) 문서를 참고한다.
