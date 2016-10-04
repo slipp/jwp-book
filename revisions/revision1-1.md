@@ -17,6 +17,13 @@
 
 if (url.startsWith("/user/create"))
 
+### 4.2.1.5 요구사항 5 - 로그인하기 - logined=false 구현 부분(133페이지 내용)
+> '4.2.1.5 요구사항 5 - 로그인하기'의 요구사항 마지막 줄에 '로그인이 실패하면 Cookie 헤더값이 logined=false로 전달되어야 한다.' 라고 쓰여져 있는데요, 4장의 코드에서 로그인 실패시 logined=false로 만들어 주는 부분을 찾지 못하겠습니다.
+
+요구사항은 위와 같이 제시되어 있지만 구현 코드는 logined=false를 구현하지 않고 있다. 이와 같이 구현한 이유는 Cookie의 logined 값이 true 인 경우에만 로그인 상태로 판단하고 나머지는 로그인이 실패한 것으로 판단했기 때문이다.
+
+만약 위 요구사항에 따라 logined=false 값을 전달하는 예제를 확인하고 싶다면 https://github.com/slipp/jwp-book/issues/4 문서를 참고할 수 있다.
+
 ### @FuncationalInterface 관련 설명(273페이지 내용)
 > 람다를 사용하려면 RowMapper와 같이 인터페이스의 메서드가 하나만 존재해야한다. 람다 표현식으로 사용할 인터페이스라고 지정하려면 이터페이스에 @FuntionalInterface 애노테이션을 추가해야한다.
 
